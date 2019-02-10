@@ -1,5 +1,5 @@
 Chapter 1
-Introduction
+Introduction to Internet
 
 The Internet is the global system of interconnected computer networks
 that use the Internet protocol suite (TCP/IP) to link devices
